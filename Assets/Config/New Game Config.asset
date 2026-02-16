@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e45184351903baf4aa092c223c3ce772, type: 3}
+  m_Name: New Game Config
+  m_EditorClassIdentifier: 
+  snapDistance: 1.25
+  grindDuration: 0.9
+  grinderClip: {fileID: 8300000, guid: f7a1eac9ee1bc46cdadc58517b402edd, type: 3}
+  stonePushClip: {fileID: 8300000, guid: 27258e4b23cee42589d53f3a6be41fb3, type: 3}
+  dragLoopClip: {fileID: 8300000, guid: 267a8703a76b348e9bdd0b2b3dccdb73, type: 3}
+  moveClips:
+  - {fileID: 8300000, guid: 26e8e44adf1174c62b1c74d8d5d7f98c, type: 3}
+  - {fileID: 8300000, guid: f4c0819f609d54e828c5ef34d6525608, type: 3}
+  - {fileID: 8300000, guid: e2d9ab74902a74d89bc9f1ba3cb91f1c, type: 3}
+  whiteMat: {fileID: 0}
+  redMat: {fileID: 0}
+  blueMat: {fileID: 0}
+  greenMat: {fileID: 0}
+  yellowMat: {fileID: 0}
+  purpleMat: {fileID: 0}
