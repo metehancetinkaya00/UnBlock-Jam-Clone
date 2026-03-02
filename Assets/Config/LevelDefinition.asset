@@ -13,27 +13,27 @@ MonoBehaviour:
   m_Name: LevelDefinition
   m_EditorClassIdentifier: 
   blocks:
-  - id: Black
-    prefab: {fileID: 8251587998553907961, guid: 5f40087e8f48fc743a4c0aab121244c7, type: 3}
-    size: {x: 1, y: 1}
-    color: 1
+  - id: GreenBlockL
+    prefab: {fileID: 8251587998553907961, guid: 3271a21883630e84b9f034b4e46363c7, type: 3}
+    size: {x: 2, y: 2}
+    color: 4
     moveAxis: 0
     anchor: {x: 1, y: 1}
-  - id: White
-    prefab: {fileID: 8251587998553907961, guid: c0723489467710840b0d01c20ca227bf, type: 3}
-    size: {x: 1, y: 1}
-    color: 0
+  - id: BlueBlock2
+    prefab: {fileID: 8251587998553907961, guid: 244a73da3cc0b1440a90581ff299eb81, type: 3}
+    size: {x: 2, y: 2}
+    color: 3
     moveAxis: 0
-    anchor: {x: 4, y: 1}
-  - id: White
-    prefab: {fileID: 8251587998553907961, guid: c0723489467710840b0d01c20ca227bf, type: 3}
-    size: {x: 1, y: 1}
-    color: 0
+    anchor: {x: 4, y: 4}
+  - id: BlueBlock
+    prefab: {fileID: 8251587998553907961, guid: 131241a41cf2a804b88481159588bd72, type: 3}
+    size: {x: 2, y: 2}
+    color: 3
     moveAxis: 0
-    anchor: {x: 2, y: 1}
-  - id: Black
-    prefab: {fileID: 8251587998553907961, guid: 5f40087e8f48fc743a4c0aab121244c7, type: 3}
-    size: {x: 1, y: 1}
-    color: 1
+    anchor: {x: 3, y: 3}
+  - id: GreenBlock
+    prefab: {fileID: 8251587998553907961, guid: 4aa4fe54e322b3e40983677e6b588d90, type: 3}
+    size: {x: 2, y: 2}
+    color: 3
     moveAxis: 0
-    anchor: {x: 2, y: 3}
+    anchor: {x: 5, y: 5}

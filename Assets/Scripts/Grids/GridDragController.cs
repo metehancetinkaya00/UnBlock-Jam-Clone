@@ -42,7 +42,7 @@ public class GridDragController : MonoBehaviour
         cam = Camera.main;
         if (!grid) grid = FindObjectOfType<GridManager>();
 
-      
+       
         audioSrc = GetComponent<AudioSource>();
         if (audioSrc == null) audioSrc = gameObject.AddComponent<AudioSource>();
         audioSrc.playOnAwake = false;
